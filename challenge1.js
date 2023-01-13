@@ -5,7 +5,7 @@
 //             3. conditional to check if each string has exactly 4 characters - .length === 4 
 //             4. print the words that meet that condition
 
-var words = ["hi", "bat", "cone", "horse", "home", "dog", "list", "tennis"]
+var words = ["hi", "bat", "cone", "horse", "home", "dog", "list", "tennis"];
 
 for (var i = 0; i < words.length; i++) {
     if (words[i].length === 4) {

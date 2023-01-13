@@ -4,7 +4,7 @@
 //             2. for statement to look at each string in the array
 //             3. print each element of the array with the array method .toLowerCase 
 
-var words = ["TenNis", "hoRsE", "sHeLf", "hELP"]
+var words = ["TenNis", "hoRsE", "sHeLf", "hELP"];
 
 for (var i = 0; i < words.length; i++) {
     console.log(words[i].toLowerCase());

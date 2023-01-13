@@ -6,7 +6,7 @@
 //             4. print the words that meet that condition
 
 
-var words = ["tennis", "shelf", "horse", "time", "ball", "hint", "telephone"]
+var words = ["tennis", "shelf", "horse", "time", "ball", "hint", "telephone"];
 
 for (i = 0; i < words.length; i++) {
     if (words[i].startsWith("t")) {
